@@ -1,0 +1,25 @@
+{
+  "name": "operator-frontend",
+  "version": "1.0.0",
+  "description": "My peachy Nuxt.js project",
+  "author": "Anju Cheran &lt;cheran.anju@gmail.com&gt;",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.4.1",
+    "axios": "^0.18.0",
+    "bootstrap-vue": "^2.0.0-rc.19",
+    "cross-env": "^5.2.0",
+    "formvuelar": "^1.1.1",
+    "nuxt": "^2.4.0",
+    "vue-good-table": "^2.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
